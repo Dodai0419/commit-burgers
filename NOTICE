@@ -1,0 +1,8 @@
+commit-burgers includes code adapted from these MIT-licensed projects:
+
+- mcd-git, Copyright (c) 2026 zhutoumeme, https://github.com/zhutoumeme/mcd-git
+  The skyline geometry, burger drawing and drop animation in commit_burgers.py come from src/mcd_git/card_skyline.py.
+- earshot, Copyright (c) 2026 Leon Lin, https://github.com/Leonxlnx/earshot
+  The struck-bar note model and the marimba / glockenspiel parameters come from earshot/forge/recipes/mallet.py.
+
+Both are distributed under the MIT License, whose text is in LICENSE.
